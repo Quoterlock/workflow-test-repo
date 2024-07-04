@@ -3,6 +3,7 @@
 
 void feature1() {
     std::cout << "Feature 1 implemented...\n";
+    // some text here
 }
 
 int main() {
