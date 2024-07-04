@@ -13,6 +13,6 @@ void newFeature() {
 int main() {
     std::cout << "Hello world\n";
     feature1();
-    newFeaturse();
+    newFeature();
     return 0;
 }
