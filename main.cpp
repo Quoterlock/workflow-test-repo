@@ -14,7 +14,7 @@ void newFeature() {
 
 
     // new feature added
-
+    // another feature
 }
 
 int main() {
